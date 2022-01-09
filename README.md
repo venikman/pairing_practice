@@ -2,7 +2,7 @@
 
 # Tasks
 
-## Calculate the sum of numbers in an array of numbers
+## 1.Calculate the sum of numbers in an array of numbers
 
 ```js
 const ar = [2, 3, -1, 5, 7, 9, 10, 15, 95];
@@ -10,7 +10,7 @@ const sum = sumArray(ar);
 console.log("Sum :", sum); // Sum : 145
 ```
 
-## Fizz buzz
+## 2.Fizz buzz
 
 Task: The so called FizzBuzz program is a basic programming exercise commonly
 used as a job interview question. The program usually comprises of printing a
@@ -39,7 +39,7 @@ Fizz
 FizzBuzz # 15
 ```
 
-## Create a function to Calculate the average of the numbers in an array of numbers
+## 3.Create a function to Calculate the average of the numbers in an array of numbers
 
 ```js
 const arr = [1, 3, 9, 15, 90];
