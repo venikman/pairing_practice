@@ -10,7 +10,7 @@ const sum = sumArray(ar);
 console.log("Sum :", sum); // Sum : 145
 ```
 
-Fizz buzz
+## Fizz buzz
 
 Task: The so called FizzBuzz program is a basic programming exercise commonly
 used as a job interview question. The program usually comprises of printing a
